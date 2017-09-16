@@ -20,4 +20,5 @@ wolf_warrior_2 = media.Movie("Wolf Warrior 2",
 	"https://upload.wikimedia.org/wikipedia/en/1/11/Wolf_Warriors_poster.jpg",
 	"https://www.youtube.com/watch?v=fkqGiPB2D8M");
 
+# add all movies above into a list named movies
 movies = [avator, fast_and_furious_8, logan, wonder_woman, wolf_warrior_2];
